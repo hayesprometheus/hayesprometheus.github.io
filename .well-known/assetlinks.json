@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "live.livefi.app",
+      "sha256_cert_fingerprints": [
+        "A6:B4:17:03:E6:CB:14:89:C0:DA:15:A5:A8:7D:FF:7A:01:BC:0B:B0:5D:91:35:B9:CA:6A:B1:5F:F1:30:6C:C2"
+      ]
+    }
+  }
+]
